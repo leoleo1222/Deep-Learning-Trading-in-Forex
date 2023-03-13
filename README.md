@@ -1,6 +1,5 @@
 # Deep Learning Trading
 
-> "If it works, it is not online."
 
 This project utilizes NeuroEvolution of Augmenting Topologies (NEAT) algorithm to create Artificial Feed Forward Neural Networks.
 
