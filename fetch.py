@@ -12,7 +12,7 @@ import shutil
 
 # params
 START_DATE = date(2022, 6, 1)
-END_DATE = date(2022, 6, 30)
+END_DATE = date(2022, 6, 30) # end date
 SYMBOLS = ['EURUSD']  # ['AAPL.US/USD']
 PRICE_TYPES = ['BID']
 
